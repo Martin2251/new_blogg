@@ -1,10 +1,28 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" },
-    { "id": 2, "title": "a good day", "author": "martin" }
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode",
+      "description":
+    },
+    {
+      "id": 2,
+      "title": "a good day",
+      "author": "martin",
+      "description":
+
+
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  }
 }
